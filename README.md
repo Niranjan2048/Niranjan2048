@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjan2048&label=Profile%20views&color=0e75b6&style=flat" alt="niranjan2048" /> </p>
 <img align = "right" alt="Coding" width="250" src= "https://c.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif">
-<p align="left"> <a href="https://twitter.com/Niranjankhedka23" target="blank"><img src="https://img.shields.io/twitter/follow/niranjankhedka9?logo=twitter&style=for-the-badge" alt="niranjankhedka9" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Niranjankhedka23" target="blank"><img src="https://img.shields.io/twitter/follow/niranjankhedka9?logo=twitter&style=for-the-badge" alt="Niranjankhedka23" /></a> </p>
 
 - 🔭 I’m currently working on [FARM stack todo app project](https://github.com/Niranjan2048/FARM-stack-TODO)
 
@@ -23,7 +23,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/niranjankhedka9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niranjankhedka9" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/niranjan-khedkar-081502213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/niranjan-khedkar-081502213/" height="30" width="40" /></a>
 <a href="https://instagram.com/niranjan__khedkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niranjan__khedkar" height="30" width="40" /></a>
 <a href="https://medium.com/@niranjankhedkar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@niranjankhedkar23" height="30" width="40" /></a>
